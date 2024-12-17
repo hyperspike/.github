@@ -6,4 +6,5 @@ Active projects:
   - [Gitea-Operator](https://github.com/hyperspike/gitea-operator) - A Kubernetes Operator to deploy and manage [Gitea](https://github.com/go-gitea/gitea)
   - [Gitea-Spoon](https://github.com/hyperspike/gitea-spoon) - A sidecar controller to manage [Gitea](https://github.com/go-gitea/gitea)
   - [Valkey-Operator](https://github.com/hyperspike/valkey-operator) - A Kubernetes Operator to deploy and manage [Valkey](https://valkey.io/)
+  - [Pivot](https://github.com/hyperspike/pivot) - Pivot from cluster bootstrapping to continuous deployment; day 2 operations.
   - [Hyperctl](https://github.com/hyperspike/hyperctl) - A CLI to create Hyperspike clusters from scratch
